@@ -1,0 +1,8 @@
+*.key
+JUnitTest/report/
+
+JUnitTest/jacoco-0.8.5/
+
+JUnitTest/test-classes/
+
+JUnitTest/classes/
