@@ -43,3 +43,5 @@ out/
 .vscode/
 
 JUnitTesting/report/
+
+JUnitTest/jacoco.exec
